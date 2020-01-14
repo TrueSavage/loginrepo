@@ -1,0 +1,22 @@
+
+
+body {
+  background-color: rgb(188, 231, 233);}
+
+.email {
+  color: red;
+font-size: 40px;
+
+
+}
+
+.password {
+  color: red;
+  font-size: 40px;
+}
+
+.btn {
+  background-color: chartreuse;
+  height: 60px;
+  width: 60px;
+}
